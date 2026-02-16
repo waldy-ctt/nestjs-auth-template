@@ -39,4 +39,3 @@ pnpm run start:dev
 | POST   | /api/auth/register | Register a new user             | ❌             |
 | POST   | /api/auth/login    | Authenticate and receive tokens | ❌             |
 | POST   | /api/auth/refresh  | Get new access token            | ✅ (Refresh)   |
-| GET    | /api/users/profile | Get current user data           | ✅ (Access)    |
